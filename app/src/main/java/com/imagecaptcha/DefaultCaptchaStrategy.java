@@ -11,7 +11,7 @@ import android.support.annotation.NonNull;
 import java.util.Random;
 
 /**
- * Created by luozhanming on 2018/1/19.
+ * Created by w
  */
 
 public class DefaultCaptchaStrategy extends CaptchaStrategy {

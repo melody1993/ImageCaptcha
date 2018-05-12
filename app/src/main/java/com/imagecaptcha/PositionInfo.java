@@ -1,7 +1,7 @@
 package com.imagecaptcha;
 
 /**
- * Created by cdc4512 on 2018/2/5.
+ * Created by w
  */
 
 public class PositionInfo {

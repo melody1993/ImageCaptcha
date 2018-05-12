@@ -3,7 +3,7 @@ package com.imagecaptcha;
 import android.content.Context;
 
 /**
- * Created by luozhanming on 2018/1/17.
+ * Created by w
  */
 
 public class Utils {

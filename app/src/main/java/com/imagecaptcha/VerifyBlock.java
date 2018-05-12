@@ -16,7 +16,7 @@ import android.widget.Toast;
 import java.util.Random;
 
 /**
- * Created by Administrator on 2018/2/6.
+ * Created by w on 2018/2/6.
  */
 
 public class VerifyBlock extends AppCompatImageView {
